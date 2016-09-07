@@ -1,0 +1,21 @@
+//
+//  BeautyWardrobePrefix.pch
+//  BeautyWardrobe
+//
+//  Created by ZhangJunjun on 16/4/27.
+//  Copyright © 2016年 KingNet. All rights reserved.
+//
+
+#ifndef BeautyWardrobePrefix_pch
+#define BeautyWardrobePrefix_pch
+#import "ZFHeaders.h"
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "ZFPublic.h"
+#import "UIView+ZFFrame.h"
+#import "ZFMacros.h"
+#import "ZFRequestFailedView.h"
+#import "ZFRequestNothingView.h"
+#import "ZFRefreshHeader.h"
+
+#endif /* BeautyWardrobePrefix_pch */
